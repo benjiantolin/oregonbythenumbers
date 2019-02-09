@@ -24,4 +24,6 @@ Some ideas I have for this project is to create a platform where you can choose 
 | Broadband Access                          | Infrastructure | The percentage of households served by broadband internet (25 Mbps down/3 Mbps up) | https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477 | FCC form 477 is reported at the block level, The FCC also provides block level household estimates. These two tables are related and this measured is estimated. |
 | Transit Service                           | Infrastructure | The percentage of residents served by public transit service, measured as the unduplicated population within a .25-mile radius of a given stop operated by a transit agency. | http://tna.trilliumtransit.com/?&n=--&dbindex=10             | Data dump report is used to generate county level data       |
 | Vehicle Miles Traveled                    | Infrastructure | The sum os distances traveled by all motor vehicles in a specified system of highways for a given period of time. | https://www.oregon.gov/odot/DATA/Pages/Traffic-Counting.aspx |                                                              |
+
+### Screenshot of Geospatial data
 ![](/img/OregonCounties.png)
