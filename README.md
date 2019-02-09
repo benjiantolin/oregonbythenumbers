@@ -26,4 +26,4 @@ Some ideas I have for this project is to create a platform where you can choose 
 | Vehicle Miles Traveled                    | Infrastructure | The sum os distances traveled by all motor vehicles in a specified system of highways for a given period of time. | https://www.oregon.gov/odot/DATA/Pages/Traffic-Counting.aspx |                                                              |
 
 ### Screenshot of Geospatial data
-![](/img/OregonCounties.png)
+![](https://benjiantolin.github.io/img/OregonCounties.png)
